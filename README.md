@@ -5,4 +5,7 @@
 3. Fernando Padilla @fandopg
 4. Isaac Perez @IzaacP7
 5. Flavio Morales 
-6. Carlos EScobar
+5. Flavio Morales @MoralessF
+6. Arnold Esquivel @ArnoldEsquivel
+7. Miguel ANgel @2112miguel 
+8. CArlos Escobar @dragonfire124
