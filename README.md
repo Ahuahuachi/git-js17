@@ -6,13 +6,9 @@
 4. Isaac Perez @IzaacP7
 5. Flavio Morales @MoralessF
 6. Arnold Esquivel @ArnoldEsquivel
-<<<<<<< HEAD
-7. Miguel ANgel @2112miguel
-
-=======
 7. Miguel ANgel @2112miguel 
 8. Sergio Abraham Gonzalez Sainz @sergio-gonzalez-sainz
 9. Martha Graciela Luna Herrera @MarthaLuna
 10. Victor Guerrero @zzinue
-11. Renato Salas @renatoksh
->>>>>>> 41395d299a39b09731646d250d1798564a70c199
+11. CArlos Escobar @dragonfire124
+12. Renato Salas @renatoksh
