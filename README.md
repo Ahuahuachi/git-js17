@@ -1,5 +1,8 @@
 # Generación 17 JS
 
 1. Alfredo Altamirano @Ahuahuachi
-
-2. Carlos Escobar 
+2. Oscar Corona @Mikovaz
+3. Fernando Padilla @fandopg
+4. Isaac Perez @IzaacP7
+5. Flavio Morales 
+6. Carlos EScobar
