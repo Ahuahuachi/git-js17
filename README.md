@@ -3,5 +3,6 @@
 1. Alfredo Altamirano @Ahuahuachi
 2. Oscar Corona @Mikovaz
 3. Fernando Padilla @fandopg
-4. Sergio Abraham Gonzalez Sainz sergio-gonzalez-sainz
- 
+4. Isaac Perez @IzaacP7
+5. Flavio Morales @MoralessF
+6. Sergio Abraham Gonzalez Sainz sergio-gonzalez-sainz
