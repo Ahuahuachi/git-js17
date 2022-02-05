@@ -1,4 +1,6 @@
 # Generación 17 JS
 
 1. Alfredo Altamirano @Ahuahuachi
-2. Sergio Abraham Gonzalez Sainz sergio-gonzalez-sainz
+2. Oscar Corona @Mikovaz
+3. Fernando Padilla @fandopg
+4. Sergio Abraham Gonzalez Sainz sergio-gonzalez-sainz
