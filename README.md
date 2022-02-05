@@ -6,4 +6,5 @@
 4. Isaac Perez @IzaacP7
 5. Flavio Morales @MoralessF
 6. Arnold Esquivel @ArnoldEsquivel
-7. Miguel ANgel @2112miguel 
+7. Miguel ANgel @2112miguel
+8. Renato Salas @renatoksh 
